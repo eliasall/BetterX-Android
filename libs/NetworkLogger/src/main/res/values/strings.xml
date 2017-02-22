@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Network Logger</string>
+    <string name="state_unknown">unknown</string>
+    <string name="state_connecting_wifi">connected to WiFi</string>
+    <string name="state_connecting_wifi_with_i">connected to WiFi (Internet available)</string>
+    <string name="state_connecting_wifi_without_i">connected to WiFi (Internet not available)</string>
+    <string name="state_connecting_mobile">connected to mobile network</string>
+    <string name="state_offline">offline</string>
+</resources>
