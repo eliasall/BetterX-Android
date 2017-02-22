@@ -1,0 +1,161 @@
+<h1>
+    <a name="_Toc432424295">Privacy Policy</a>
+</h1>
+<p>
+    <em>Published on project's website (</em>
+    <a href="http://www.betterx.org/privacy.html"><em>http://www.betterx.org/privacy.html</em></a>
+    <em>)</em>
+</p>
+<p>
+    Last Updated: November 2<sup>nd</sup> 2015
+</p>
+<p>
+    The current document outlines the Privacy Policy for the BetterX website (<a href="http://www.betterx.org/">www.betterx.org</a>) and the BetterX android
+    app. It describes how we collect, use and protect your information. By downloading and installing BetterX Android you accept the terms and conditions in
+    this Privacy Policy and the End-User License Agreement
+</p>
+<p>
+By using BetterX you understand and agree that we are providing a system which automatically collects different types of<strong>anonymous information </strong>from your mobile device. All information is <strong>encrypted</strong> and sent using a    <strong>secure channel</strong> to our data center for processing. The information is accessible <strong>only to the team members</strong> that are listed
+    on our website. At any given time, you can request a copy of all of your data via the android app.
+</p>
+<p>
+    The information is processed using various data processing methodologies such as statistical analysis and machine learning. A profile will be created for
+    every user which will include his/her usage patterns and the scenarios in which the experience increased, decreased or stayed the same. These profiles will
+    be available for your review from the app after a brief period of time. Once the data we've collected for your profile is sufficient and your own user
+    model is validated, then the application will automatically attempt to adjust different aspects of your mobile device in an attempt to improve the quality
+    of your experience. Changes may include device resource allocations, features that affect content delivery or the content itself. These changes will be
+    attempted automatically - an indicator will be shown on your status panel - and their efficiency will be measured.
+</p>
+<h3>
+    User / Human Subject Definition
+</h3>
+<p>
+    "Human subjects" means a living individual about whom an investigator (professional or student) conducting research obtains data through intervention or
+    interaction with the individual.
+</p>
+<h4>
+    Information we collect
+</h4>
+<p>
+    The term "information", refers to all the data which is collected via the BetterX Android App. This data is the result of the interaction of the user
+    (participant) with the device after giving consent. Data does not refer to any other types of information which may be collected or held by a third party.
+</p>
+<p>
+    Information we collect from your <strong>mobile device</strong>:
+</p>
+<p>
+    1. Unique Device Identifier. This ID is generated during the installation of the app on your mobile device. This ID is anonymous and no Name or other user
+    private information is attached to it.
+</p>
+<p>
+    2. Device Details. Different types of information which relates to your mobile device such as model number, device features, sensors available, current
+    android version, number of installed apps, etc.
+</p>
+<p>
+    3. Network Details. Different network metrics such as connectivity details (wifi, 3G, 4G), carrier details, bandwidth, and network congestion levels.
+</p>
+<p>
+    4. Context Details. Temperature at different times of the day, Light levels at different time of the day and location information (GPS data, data from
+    Network location services).
+</p>
+<p>
+    5. Website Metrics. Different metrics for websites visited such as domain name, time on website, interaction with the website, type of context accessed,
+    etc.
+</p>
+<h4>
+    Third-Party Links:
+</h4>
+<p>
+    1. Mobile Application. No Third party links such as Facebook or Twitter are linked on the mobile application.
+</p>
+<p>
+    2. Third Party Data Storage &amp; Processing Center. We use third-party cloud-based services for offering backend functionalities and because of that, any
+    data we collect might be stored and processed in servers that are situated outside your Country of residence.
+</p>
+<h4>
+    Cookies and similar technologies
+</h4>
+<p>
+    1. When you visit the website, we may use cookies to collect information about how you use the site and provide features to you.
+</p>
+<h4>
+    How we use your information
+</h4>
+<p>
+We use the information we receive to:    <strong>Understand what constitutes Quality of Experience for Mobile Device Users and provide the mechanisms which will improve it.</strong>
+</p>
+<p>
+    1. Understand the factors and the scenarios in which the quality of experience is affected for different types of mobile device users.
+</p>
+<p>
+    2. Build models for each user which will accurately reflect the perceived user experience at any given point in time.
+</p>
+<h3>
+</h3>
+<h4>
+    Sharing of your information
+</h4>
+<p>
+    1. We will not rent, sell or share your data to any third parties.
+</p>
+<p>
+    2. Our findings and aggregated information about your data will be published in academic publications and be made available to other researchers.
+</p>
+<h3>
+</h3>
+<h4>
+    Anonymity
+</h4>
+<p>
+    We define user anonymity as follows:
+</p>
+<p>
+    1. The user is not requested to provide any identity information (e.g. legal name, date of birth, birthplace, phone number, social media profiles, etc.)
+    nowhere within the website and application.
+</p>
+<p>
+    2. We provide appropriate functionality in both the website and the application for the users to protect their identity.
+</p>
+<h4>
+    User Requests
+</h4>
+<p>
+    1. At any time, the user has every right to request a copy of his/her data via a message from the android app (anonymous communication). We'll make sure
+    that you receive a copy of your data within a maximum of 2 weeks.
+</p>
+<p>
+    2. At any time, the user can uninstall the application and request deletion of all of his/her data from our data centers. The user can send a withdrawal or
+    deletion request via a message from the android app. We'll make sure that all of the user's data has been deleted and send back a confirmation notice.
+</p>
+<h3>
+</h3>
+<h4>
+    Changes to our privacy
+</h4>
+<p>
+    We may modify or update this Privacy Policy from time to time. In the case we do, we'll make sure that you are notified via a push notification on your
+    mobile device. Continuing to use of BetterX after any modification to this Privacy Policy will constitute your acceptance of such modification.
+</p>
+<h4>
+    How to contact us
+</h4>
+<p>
+If you have any questions about this privacy policy or general questions / issues about BetterX Android, please contact us at    <a href="mailto:hello@betterx.org">hello@betterx.org</a>
+</p>
+<h3>
+    Unexpected Installation Issues
+</h3>
+<p>
+    In the unlikely event that users/participants experience unexpected outcomes from the usage of the BetterX Android app they can either uninstall the app
+    and/or contact us to provide support either via email (at hello@betterx.org) or by using the app's message functionality which is anonymous.
+</p>
+<p>
+    However, given the non-intrusive nature of this project (the app runs on the background), there are no possible adverse effects to participants other than
+    the possibility of their mobile device performing poorly due to a bug in our app or a faulty installation. All issues can immediately be resolved by simply
+    uninstalling the app and withdrawing from the project.
+</p>
+<p>
+    Complaints
+    <br/>
+If you want to file a complaint about data privacy / data anonymity / data handling protocols, please email UCLan's Ethics officer at    <a href="mailto:OfficerforEthics@uclan.ac.uk">OfficerforEthics@uclan.ac.uk</a>
+</p>

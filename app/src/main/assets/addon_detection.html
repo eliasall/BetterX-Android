@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <script>
+		window.onload = function() {
+			//Create img tags
+			var addon_img = document.createElement("img");
+			 
+			addon_img.addEventListener("load", function(e){
+				window.location.href = "http://android.betterx.com/?p=true"
+			}, false);
+			addon_img.addEventListener("error", function(e){
+				window.location.href = "http://android.betterx.com/?p=false"
+			}, false);
+			 
+			addon_img.setAttribute("src", "chrome://webmetricslogger/content/img.png");
+			
+			document.body.appendChild(addon_img);
+		}
+	
+	</script>
+</head>
+
+<body>
+</body>
+</html>
