@@ -1,4 +1,4 @@
-# About
+# BetterX-Android
 BetterX-Android is a data collection app used in the [BetterX.org](http://www.betterx.org) research project.  BetterX-Android works on the background and collects device, network and sensor data.
 
 ## Functionality
@@ -63,5 +63,28 @@ The purpose of the netlogger is to monitor and record all the device network sta
 * Screen Size
 * Running Apps
 
+
 ### Main App Screens
+![a](screens-demo/main1.png)
+![b](screens-demo/main2.png)
+
+### Info Screens
+![1](screens-info/s1.png)
+![2](screens-info/s2.png)
+![3](screens-info/s3.png)
+![4](screens-info/s4.png)
+![5](screens-info/s5.png)
+![6](screens-info/s6.png)
+![7](screens-info/s7.png)
+![8](screens-info/s8.png)
+![9](screens-info/s9.png)
+![10](screens-info/s10.png)
+![11](screens-info/s11.png)
+
+### Setup Screens
+![13](screens-demo/demo1.png)
+![14](screens-demo/demo2.png)
+![15](screens-demo/demo3.png)
+![16](screens-demo/demo4.png)
+![17](screens-demo/demo5.png)
 
